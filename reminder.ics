@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:查看项目进度与未完成事项：\n- 跟进选图项目付款状态\n- 网络学院项目主功能开发安排\n- 查看每日博士项目合同是否签署\n\n📅 记得写今日日志，安排明日计划
+DTEND:20250623T013000Z
+DTSTART:20250623T010000Z
+SUMMARY:📋 每日工作提醒
+UID:9b9a2b58-7562-490c-9f5e-b45191677cab@9b9a.org
+END:VEVENT
+END:VCALENDAR
